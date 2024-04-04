@@ -1,6 +1,8 @@
 <template>
   <div>
-     hello world
+      <div class="cont-1 container">
+        <h1>Reaction timer game</h1>
+      </div>
   </div>
 </template>
 
